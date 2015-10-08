@@ -1,0 +1,2 @@
+baseurl: http://pmaeder.github.io/
+exclude: ['README.md']
